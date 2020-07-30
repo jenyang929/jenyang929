@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Jennifer! 
+
+💻  I am currently looking for a Software Engineer position <br>
+🐼  Panda lover <br>
+💊  I am a Registered Nurse turned Programmer <br>
+😄  Pronouns: She/Her/Hers <br>
+📫  Feel free to message me on <a href="https://www.linkedin.com/in/yang-jennifer/">LinkedIn</a><br>
+
 <!--
 **jenyang929/jenyang929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
