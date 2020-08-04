@@ -3,7 +3,6 @@
 My name is Jennifer! 
 
 💻   I am currently looking for a Software Engineer position <br>
-🤔   Curious about AI and machine learning, specifically in healthcare <br>
 🐼   Panda lover <br>
 💊   Registered Nurse turned Programmer <br>
 😄   Pronouns: She/Her/Hers <br>
@@ -22,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🤔   Curious about AI and machine learning, specifically in healthcare <br>
 -->
