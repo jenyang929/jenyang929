@@ -3,7 +3,7 @@
 My name is Jennifer! 
 
 💻   I am currently looking for a Software Engineer position <br>
-🔭   I’m currently working on CS algorithms <br>
+🔭   I’m currently working on CS algorithms and data structures<br>
 🤔   I want to learn how to incorporate healthcare with AI & machine learning
 💊   Registered Nurse turned Programmer <br>
 😄   Pronouns: She/Her/Hers <br>
