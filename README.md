@@ -3,9 +3,11 @@
 My name is Jennifer! 
 
 💻   I am currently looking for a Software Engineer position <br>
-🐼   Panda lover <br>
+🔭   I’m currently working on CS algorithms <br>
+🤔   I want to learn how to incorporate healthcare with AI & machine learning
 💊   Registered Nurse turned Programmer <br>
 😄   Pronouns: She/Her/Hers <br>
+🐼   Panda lover <br>
 📫   Feel free to message me on <a href="https://www.linkedin.com/in/yang-jennifer/">LinkedIn</a><br>
 
 <!--
