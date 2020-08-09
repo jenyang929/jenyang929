@@ -2,7 +2,7 @@
 
 My name is Jennifer! 
 
-💻   I am currently looking for a Software Engineer position <br>
+💻   Recently, graduated from the Grace Hopper Program! <br>
 🔭   I’m currently working on CS algorithms and data structures<br>
 🤔   I curious to learn how to incorporate healthcare with AI & machine learning <br>
 💊   Registered Nurse turned Programmer <br>
