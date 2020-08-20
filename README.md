@@ -4,7 +4,7 @@ My name is Jennifer!
 
 💻   Recently, graduated from the Grace Hopper Program! <br>
 🔭   I’m currently working on CS algorithms and data structures<br>
-🤔   I curious to learn how to incorporate healthcare with AI & machine learning <br>
+🤔   I am curious to learn how to incorporate healthcare with tech through AI & machine learnine <br>
 💊   Registered Nurse turned Programmer <br>
 😄   Pronouns: She/Her/Hers <br>
 🐼   Panda lover <br>
