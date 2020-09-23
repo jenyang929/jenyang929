@@ -3,7 +3,7 @@
 My name is Jennifer! 
 
 💻   Recently, graduated from the Grace Hopper Program! <br>
-🔭   I’m currently working HTML/CSS/SVG Animations for fun<br>
+🔭   I’m currently working on HTML/CSS/SVG Animations for fun<br>
 🤔   I am curious to learn how to incorporate healthcare with tech through AI & machine learning <br>
 💊   Registered Nurse turned Programmer <br>
 😄   Pronouns: She/Her/Hers <br>
