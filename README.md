@@ -3,12 +3,13 @@
 My name is Jennifer! 
 
 💻   Recently, graduated from the Grace Hopper Program! <br>
-🔭   I’m currently working on CS algorithms and data structures<br>
+🔭   I’m currently working HTML/CSS/SVG Animations for fun<br>
 🤔   I am curious to learn how to incorporate healthcare with tech through AI & machine learning <br>
 💊   Registered Nurse turned Programmer <br>
 😄   Pronouns: She/Her/Hers <br>
 🐼   Panda lover <br>
-📫   Feel free to message me on <a href="https://www.linkedin.com/in/yang-jennifer/">LinkedIn</a><br>
+😬   Check out my <a href="https://codepen.io/jenyang">Codepen!</a><br>
+📫   Feel free to message me on <a href="https://www.linkedin.com/in/yang-jennifer/">LinkedIn</a><br> 
 
 <!--
 **jenyang929/jenyang929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
