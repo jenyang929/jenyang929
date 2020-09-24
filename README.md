@@ -8,7 +8,7 @@ My name is Jennifer!
 💊   Registered Nurse turned Programmer <br>
 😄   Pronouns: She/Her/Hers <br>
 🐼   Panda lover <br>
-😬   Check out my <a href="https://codepen.io/jenyang">Codepen!</a><br>
+😬   Check out my <a href="https://codepen.io/jenyang"  target="_blank">Codepen</a> and <a href="https://yang-jennifer.web.app/"  target="_blank">website!<br>
 📫   Feel free to message me on <a href="https://www.linkedin.com/in/yang-jennifer/">LinkedIn</a><br> 
 
 <!--
