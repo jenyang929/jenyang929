@@ -7,8 +7,6 @@ My name is Jennifer!
 🤔   I am curious to learn how to incorporate healthcare with tech through AI & machine learning <br>
 💊   Registered Nurse turned Programmer <br>
 😄   Pronouns: She/Her/Hers <br>
-🐼   Panda lover <br>
-😬   Check out my <a target="_blank" href="https://codepen.io/jenyang">Codepen</a> and <a target="_blank" href="https://yang-jennifer.web.app/">website!<a/><br>
 📫   Feel free to message me on <a href="https://www.linkedin.com/in/yang-jennifer/">LinkedIn</a><br> 
 
 <!--
